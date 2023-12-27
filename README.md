@@ -18,7 +18,7 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
   - Add your images to the designated folder. An example folder can be found in the distributed files under `images > unoptimized`.
 
 - **Running the Converter:**
-  - Launch the .exe file under `dist > convert_images.exe`
+  - Launch the .exe file under `dist > convert_images.exe`.
   - Specify the directory of your unoptimized files (input).
   - Set the directory for the optimized files to be saved (output).
 
