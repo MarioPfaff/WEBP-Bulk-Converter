@@ -1,7 +1,7 @@
 # .WEBP Bulk Converter
 
-This converter simplifies the transformation of multiple images into lossless .webp files, allowing users to adjust resolution and quality settings. Developed to address limitations found in online tools that often charge for these basic functionalities, this tool offers a cost-free solution.
-
+ A straightforward converter that permits users to efficiently transform multiple images into lossless .webp files while customizing resolution and quality settings. Developed in response to the limitations of online tools that often charge for these basic functionalities, this tool offers the same solution without any cost barriers. 
+ 
 ## Dependencies
 
 This project relies on the Python Imaging Library (PIL) for image processing and conversion.
